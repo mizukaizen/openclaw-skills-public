@@ -1,4 +1,4 @@
-# OpenClaw Skills — melisarchimedes
+# OpenClaw Skills — mizukaizen
 
 Public SKILL.md-format skills for AI agents.
 
@@ -15,10 +15,10 @@ Astrological transit calculator with natal chart support. Daily transits, weekly
 npx clawhub@latest install astro-transits
 
 # Skills.sh
-npx skills add melisarchimedes/openclaw-skills-public/astro-transits
+npx skills add mizukaizen/openclaw-skills-public/astro-transits
 
 # Direct
-git clone https://github.com/melisarchimedes/openclaw-skills-public.git
+git clone https://github.com/mizukaizen/openclaw-skills-public.git
 ```
 
 **Quick start:**

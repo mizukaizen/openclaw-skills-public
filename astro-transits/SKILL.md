@@ -2,7 +2,7 @@
 name: astro-transits
 description: Astrological transit calculator with natal chart support. Daily transits, weekly forecasts, void-of-course Moon, aspects, stations, and ingresses. Uses Swiss Ephemeris.
 version: 1.0.0
-homepage: https://github.com/melisarchimedes/astro-transits
+homepage: https://github.com/mizukaizen/openclaw-skills-public
 metadata: {"clawdbot":{"emoji":"🌟","requires":{"bins":["python3"],"env":[]},"primaryEnv":""}}
 ---
 
